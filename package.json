@@ -1,0 +1,17 @@
+{
+  "name": "is-android-package",
+  "version": "1.0.0",
+  "description": "check valid android package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [
+    "android",
+    "package",
+    "play",
+    "store"
+  ],
+  "author": "Udayan Basak",
+  "license": "ISC"
+}
